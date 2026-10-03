@@ -11,7 +11,7 @@ void main() {
   int limitHarian = 2000000;
   String pinBenar = '1234';
 
-  // 2. Data yang dimasukkan pengguna (simulasi)
+  // 2. Data yang dimasukkan pengguna
   String pin = '1234';
   int pembayaran = 100000;
 
